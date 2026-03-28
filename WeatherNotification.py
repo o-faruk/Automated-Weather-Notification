@@ -71,7 +71,8 @@ if __name__ == "__main__":
     #send_weather_update()  # Direct call for immediate test
     main()
     
-    #TO DO: 
-    # Possibly add user input for their own indiviudal area
-    # Possibly Create User Interface 
+    #Notes
+    # Possibly able to use for other things
+    # Can send to other devices
+    # Currently set to 2 seconds until stopped
 
